@@ -1,6 +1,8 @@
 # Hi there, I'm Diesel! 👋
 
-![banner](scorpion.webp)
+<p align="center">
+    <img src="scorpion.webp" alt="Diesel" />
+</p>
 
 ## 🧑‍💻 About Me
 
