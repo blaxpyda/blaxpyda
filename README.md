@@ -28,17 +28,6 @@ When I'm not coding, I'm probably thinking about coding! 😄
 - Building ultra-fast trading bots (ask me about them!)
 - Creating snappy, robust APIs in Go & JS
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blaxpyda&show_icons=true&theme=radical" alt="blaxpyda's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blaxpyda&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=blaxpyda&theme=radical" alt="Activity Graph" />
-</p>
-
----
 
 ## 🌍 Connect with Me
 
